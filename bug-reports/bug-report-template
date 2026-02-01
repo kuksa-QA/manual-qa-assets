@@ -1,1 +1,33 @@
+# BR-XX: Short descriptive bug title
 
+### Summary
+Short description of the issue (what happens, where, and under which conditions).
+
+### Environment
+- OS:
+- Browser:
+- Application:
+- URL:
+
+### Preconditions
+Conditions that must be met before reproducing the issue.
+
+### Steps to Reproduce
+Step-by-step actions required to reproduce the issue.
+
+### Expected Result
+The behavior expected according to design, requirements, or documentation.
+
+### Actual Result
+The actual behavior observed.
+
+### Severity
+- Critical - The system is unusable, causing complete process failure or data loss.
+- Major - Core functionality is broken, but the system remains partially usable.
+- Medium - Incorrect or unexpected behavior, but core functionality still works.
+- Low - Minor issue with little impact on functionality.
+
+### Priority
+- High - Must be fixed as soon as possible due to high business impact.
+- Medium - Should be fixed in the normal development cycle.
+- Low - Can be fixed later or deferred.
