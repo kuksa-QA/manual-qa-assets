@@ -29,8 +29,8 @@
 1. Click the 'Proceed To Checkout' button
 
 **Expected Result**
-- User is prompted to login or registrate
-- "Popup with links to login and registration page is displayed
+- User is prompted to log in or register 
+- Popup with links to the login and registration pages is displayed
 
 **Priority:** High  
 **Type:** Functional, Smoke
